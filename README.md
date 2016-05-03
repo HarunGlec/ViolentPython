@@ -1,0 +1,1 @@
+This repository contains exercise in the *Violent Python* book. 
